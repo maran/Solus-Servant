@@ -1,0 +1,2 @@
+#!/bin/bash
+screen -dmS startup ruby -rubygems solus_servant.rb
