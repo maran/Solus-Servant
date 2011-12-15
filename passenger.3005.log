@@ -1,0 +1,5 @@
+2011/12/15 14:27:08 [error] 80661#0: *4 "/Users/maran/Projects/solus_servant/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "HEAD / HTTP/1.1", host: "0.0.0.0"
+2011/12/15 14:28:20 [error] 80661#0: *6 "/Users/maran/Projects/solus_servant/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost:3005"
+2011/12/15 14:28:21 [error] 80661#0: *6 open() "/Users/maran/Projects/solus_servant/public/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3005"
+2011/12/15 14:28:31 [error] 80661#0: *6 open() "/Users/maran/Projects/solus_servant/public/vz/change/1" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /vz/change/1 HTTP/1.1", host: "localhost:3005"
+2011/12/15 14:28:31 [error] 80661#0: *6 open() "/Users/maran/Projects/solus_servant/public/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3005"
